@@ -90,6 +90,16 @@ Checks whether a name is a valid for use as a subdomain. Can also check the name
     > Type: `boolean`  
     > Default: false
 
+## Donations
+
+If you enjoy using this library and are an awesome person, feel free to make a donation to support its ongoing development.
+
+### Bitcoin
+
+##### `12or3DVWmYJ8az9FR957qz2qLWLNzUYveL`
+
+<img src="https://cdn.maur.co/bitcoin.png" width="150" height="150" />
+
 ## License
 
 [MIT](license) © [Jason Maurer](http://maur.co)
